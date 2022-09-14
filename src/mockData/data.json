@@ -1,0 +1,110 @@
+[
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-01-02",
+    "transaction_amount": 120,
+    "transaction_id": 1
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-01-15",
+    "transaction_amount": 110,
+    "transaction_id": 2
+  },
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-01-13",
+    "transaction_amount": 50,
+    "transaction_id": 3
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-02-02",
+    "transaction_amount": 210,
+    "transaction_id": 4
+  },
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-02-15",
+    "transaction_amount": 110,
+    "transaction_id": 5
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-01-13",
+    "transaction_amount": 310,
+    "transaction_id": 6
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-03-02",
+    "transaction_amount": 310,
+    "transaction_id": 7
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-01-15",
+    "transaction_amount": 410,
+    "transaction_id": 8
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-02-13",
+    "transaction_amount": 510,
+    "transaction_id": 9
+  },
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-03-02",
+    "transaction_amount": 210,
+    "transaction_id": 10
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-01-10",
+    "transaction_amount": 110,
+    "transaction_id": 11
+  },
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-03-13",
+    "transaction_amount": 50,
+    "transaction_id": 12
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-02-02",
+    "transaction_amount": 210,
+    "transaction_id": 13
+  },
+  {
+    "customer_id": 1,
+    "transaction_date": "2019-02-25",
+    "transaction_amount": 110,
+    "transaction_id": 14
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-02-11",
+    "transaction_amount": 310,
+    "transaction_id": 15
+  },
+  {
+    "customer_id": 2,
+    "transaction_date": "2019-03-22",
+    "transaction_amount": 310,
+    "transaction_id": 16
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-03-15",
+    "transaction_amount": 410,
+    "transaction_id": 17
+  },
+  {
+    "customer_id": 3,
+    "transaction_date": "2019-03-13",
+    "transaction_amount": 510,
+    "transaction_id": 18
+  }
+]
